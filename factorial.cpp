@@ -1,4 +1,4 @@
-#include "functions.h"
+#include "factorial.h"
 
 int factorial(int n){
     if(n<=1)

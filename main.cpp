@@ -1,5 +1,6 @@
 #include <iostream>
-#include "functions.h"
+#include "hello.h"
+#include "factorial.h"
 
 using namespace std;
 int main(){

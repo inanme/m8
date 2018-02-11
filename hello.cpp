@@ -1,5 +1,5 @@
 #include <iostream>
-#include "functions.h"
+#include "hello.h"
 
 using namespace std;
 void print_hello(){
